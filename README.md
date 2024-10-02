@@ -7,11 +7,12 @@
 
 <p>Entretanto, para explorar novas possibilidades no estudo e melhorar a eficiência do processo, decidiu-se desenvolver este projeto utilizando a programação em Python. Assim, esta iniciativa visa replicar a análise realizada no artigo, aproveitando as vantagens oferecidas pela programação para alcançar resultados semelhantes ou até mais robustos.
 
-<p>Dessa forma, este estudo está organizado em duas partes: 
+Dessa forma, este estudo está organizado em duas partes: 
 * **Parte 1:  aborda a análise de dados utilizando Python;**
 * Parte 2: se concentra no uso das bibliotecas Pandas e NumPy.
 
-<p>O artigo pode ser lido no link: [BIM como fomento para uma economia circular na construção civil: insights da literatura internacional](https://eventos.antac.org.br/index.php/sbtic/article/view/595)
+<p>O artigo pode ser lido no link: <a href="https://eventos.antac.org.br/index.php/sbtic/article/view/595">BIM como fomento para uma economia circular na construção civil: insights da literatura internacional</a></p>
+
 
 </div>
 
