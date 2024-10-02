@@ -23,6 +23,6 @@ O artigo pode ser lido no link: [BIM como fomento para uma economia circular na 
 </div>
 
 #
-## 📁 Arquivos
+## 📁 ARQUIVOS
 * **produção.py:** Arquivo Python que contém as análises referentes à parte 1;
 * **Projeto02.csv:** Banco de dados utilizado no projeto.
