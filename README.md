@@ -3,15 +3,15 @@
 ## 🔎 APRESENTAÇÃO 
 
 <div align="justify">
-Esta análise foi feita para a elaboração do artigo intitulado "BIM como fomento para uma economia circular na construção civil: insights da literatura internacional". No processo de desenvolvimento do artigo, a ferramenta Excel foi empregada para realizar as análises necessárias.
+<p>Esta análise foi feita para a elaboração do artigo intitulado "BIM como fomento para uma economia circular na construção civil: insights da literatura internacional". No processo de desenvolvimento do artigo, a ferramenta Excel foi empregada para realizar as análises necessárias.
 
-Entretanto, para explorar novas possibilidades no estudo e melhorar a eficiência do processo, decidiu-se desenvolver este projeto utilizando a programação em Python. Assim, esta iniciativa visa replicar a análise realizada no artigo, aproveitando as vantagens oferecidas pela programação para alcançar resultados semelhantes ou até mais robustos.
+<p>Entretanto, para explorar novas possibilidades no estudo e melhorar a eficiência do processo, decidiu-se desenvolver este projeto utilizando a programação em Python. Assim, esta iniciativa visa replicar a análise realizada no artigo, aproveitando as vantagens oferecidas pela programação para alcançar resultados semelhantes ou até mais robustos.
 
-Dessa forma, este estudo está organizado em duas partes: 
+<p>Dessa forma, este estudo está organizado em duas partes: 
 * **Parte 1:  aborda a análise de dados utilizando Python;**
 * Parte 2: se concentra no uso das bibliotecas Pandas e NumPy.
 
-O artigo pode ser lido no link: [BIM como fomento para uma economia circular na construção civil: insights da literatura internacional](https://eventos.antac.org.br/index.php/sbtic/article/view/595)
+<p>O artigo pode ser lido no link: [BIM como fomento para uma economia circular na construção civil: insights da literatura internacional](https://eventos.antac.org.br/index.php/sbtic/article/view/595)
 
 </div>
 
@@ -24,5 +24,5 @@ O artigo pode ser lido no link: [BIM como fomento para uma economia circular na 
 
 #
 ## 📁 ARQUIVOS
-* **produção.py:** Arquivo Python que contém as análises referentes à parte 1;
-* **Projeto02.csv:** Banco de dados utilizado no projeto.
+* **`produção.py:`** Arquivo Python que contém as análises referentes à parte 1;
+* **`Projeto02.csv:`** Banco de dados utilizado no projeto.
